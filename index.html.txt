@@ -7,26 +7,7 @@
 </head>
 <body>
 	<p id='salida'>Esto es un documento html</p>
-	<script>
-		//Bucles - Mientras
-		var k = 10;
-		while(k>5){
-			console.log(10-k);
-			k=k-1;
-		}
-
-		//Bucles Repetir 
-		var j = -3;
-		do{
-			j=j+1;
-			console.log(j+ " elefantes.");
-		}while(j<3)
-
-		//Bucles - Para
-		for (var i = 0; i < 6; i = i + 1){
-			console.log("---> "+i);
-		}
-	</script>
+	
 
 </body>
 </html>
